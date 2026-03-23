@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bourek Mohammed El Amine</h1>
-<h3 align="center">Web Developper & SoftwareEnginneer student</h3>
+<h3 align="center">Web Developper & Master SoftwareEnginneer Graduated</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
